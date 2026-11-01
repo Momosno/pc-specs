@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller output (executables are built locally, never committed)
+build/
+dist/
+
+# Local configuration and generated data
+.env
+*.env
+log_PC_Specs.txt
+Lista PC Specs.txt
+
+# Editors / OS
+.vscode/
+.idea/
+~$*
+Thumbs.db
