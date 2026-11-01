@@ -1,0 +1,5 @@
+peewee
+PyMySQL
+psutil
+py-cpuinfo
+pyinstaller
